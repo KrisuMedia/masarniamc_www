@@ -1,0 +1,27 @@
+
+.account { 
+    background-color: black;
+    padding-right: 0%;
+    padding-left: 100%;
+    padding-top: 0%;
+    padding-bottom: 0%;
+    color: white; 
+    font-size: 2rem;
+}
+
+.account_header{ 
+    padding-top: 100%;
+    padding-bottom: 0%;
+    font-size: 4rem;
+}
+
+.navbar { 
+    background-color: yellowgreen;
+    padding-right: 0%;
+    padding-left: 0%;
+}
+
+.navbar-menu_name { 
+    font-size: 2rem;
+    color: black;
+}
