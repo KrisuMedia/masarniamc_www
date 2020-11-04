@@ -1,0 +1,10 @@
+    admin1{ 
+        position: right;
+        z-index: auto;
+    }
+
+    admin_border { 
+        background-color: black;
+        color: white; 
+        font-size: 5rem;
+    }

@@ -1,0 +1,20 @@
+img { 
+    position: relative;
+    z-index: -5;
+    width: 102.4rem;
+    height: 40rem;
+}
+
+h1, h4 { 
+    position: relative; 
+    z-index: 5; 
+    color: black;
+    font-size: 5rem;
+}
+
+p { 
+    position: relative; 
+    z-index: auto;
+    color: black; 
+    font-size: 2rem;
+}
